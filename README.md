@@ -1,3 +1,3 @@
 # Votacao
-Repositorio: https://github.com/MarceloGiovani/votacao
+Repositorio: https://github.com/MarceloGiovani/desafiovotacao
 
